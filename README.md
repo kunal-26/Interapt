@@ -1,34 +1,25 @@
-**Fully Coded Elements**
+**Objective**
 
-Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+To create software that efficiently manages resources and monitors ongoing and upcoming projects for an institution. Democratizes the project information, project application, and project hiring on both the ends of the Project manager and employees. Maintain a portfolio of an employee and project manager, basically Linkedin within a firm. Also, easy management for the HR Team.
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
-This Free Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
+**Instructions**
 
+To use this website follow the following instructions:- 
+FOR Sign-in 
+1) For login of admin, give Id as "kunaljain2608@gmail.com" and password as "kunal". 
+2) To check for the Gender/resources ratio click on the dashboard. 
+3) To see the profile, click on profile. 
+4) To see the list of the employees, click on tables. 
+5) To look for a particular employee, You can use the search bar. 
+6) To see the Money credited and deducted from the employees, click on Monetary.
+7) To update the resources list or project list, click on the update new project list. 
+8) To log out, click on the logout button present at the top of the dashboard.
 
-**Documentation built by Developers**
-
-Each element is well presented in a very complex documentation.
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
 
 **HELPFUL LINKS**
 
-- View <a href="https://github.com/creativetimofficial/soft-ui-dashboard" target="_blank">Github Repository</a>
-
-- Check <a href="https://www.creative-tim.com/faq" target="_blank">FAQ Page</a>
-
-#### Special thanks
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Bootstrap 5](https://www.getbootstrap.com)- Open source front end framework
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-
-Let us know your thoughts below. And good luck with development!
+Website Link - https://interapt.000webhostapp.com/
+Let us know your thoughts below. 
 
 ## Table of Contents
 
