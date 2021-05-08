@@ -43,7 +43,7 @@ Let us know your thoughts below.
 2. Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard?ref=readme-sud).
+The documentation for the Soft UI Dashboard is hosted at our [website](https://interapt.000webhostapp.com/).
 
 ### What's included
 
