@@ -1,0 +1,207 @@
+Name,Start Date,Role,Role Level,Vendor,Product,Prod Start Date,Prod End Date,resource product start date,resource product end date,Prod Build Location,Anchor,Work Intake Scoping,Interviewer,Security Maven,Accessibility,DevSecOps,Education Track,Location,E/C,Color (Y/N),Gender,Available for Other areas,Skill 1,Skill 2,Skill 3,Skill 4,Skill 5,Ratings(x/10),Experience(Y),Discarded column,Names
+Resource 2,11/29/17,Engr,Senior,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,N,M,Y,,Cloud ,,,,6.7,5,Aleena,Aleena
+Resource 3,01/01/18,Engr,Senior,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,Y,,Y,,,,,IL,E,Y,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,3.4,5,Anna,Anna
+Resource 6,01/08/18,Engr,Senior,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,N,M,Y,.NET,Cloud ,,,,2.3,7,Bob,Bob
+Resource 7 ,01/08/18,Engr,Senior,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,Y,,,,,,,IL,E,Y,F,Y,.NET,Cloud ,,,,7.9,2,Bruce,Bruce
+Resource 8,01/08/18,Engr ,Senior,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,E,N,M,,,,,,,7.9,3,Caleb,Caleb
+Resource 9,01/22/18,Engr,Senior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,Y,Y,,,,IL,E,Y,M,Y,.NET,Cloud ,,,,3.4,8,Greg,Greg
+Resource 10,01/29/18,Engr,Senior,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,M,Y,.NET,Cloud ,,,,2.3,5,Hanna,Hanna
+Resource 11,02/26/18,Engr,Senior,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,Y,,Y,,Y,,,IL,E,N,M,Y,Mainframe,Cloud ,,,,7.9,6,Harry,Harry
+Resource 13,03/05/18,Engr,Senior,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,Y,,,,,Y,,IL,E,N,M,N,,,,,,6.7,2,Jake,Jake
+Resource 14,03/05/18,Engr,Senior,,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,Y,,,,,IL,E,Y,M,Y,Legacy Java,Cloud ,IBM/Websphere,,,3.4,3.5,,John
+Resource 15,03/05/18,PM,,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,E,Y,M,N,,,,,,2.3,6,,Josh
+Resource 16,03/12/18,Engr,Senior,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,Y,,Y,,,,,IL,E,Y,M,Y,Legacy Java,Cloud ,SiteMinder,,,7.9,6,Mark,Mark
+Resource 17,03/19/18,PM,,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,E,N,M,,,Cloud ,,,,6.7,2,Martin,Martin
+Resource 18 ,04/02/18,Engr,Senior,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,Y,,,,,,Y,IL,E,Y,F,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,3.4,3.5,Matt,Matthew
+Resource 20 ,04/09/18,PM,,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,2.3,6,Richard,Richard
+Resource 21 ,04/09/18,UX,,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,7.9,6,Sally,Sally
+Resource 22 ,04/16/18,UX,,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,Y,F,,,,,,,7.9,6,Tom,Tom
+Resource 23,04/23/18,Engr,Senior,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,Y,,Y,,,,,IL,E,Y,M,N,.NET,Cloud ,,,,3.4,2,Ali,Ali
+Resource 24,07/09/18,Engr,Senior,,Product 14,03/15/21,,03/15/21,,AZ,Y,,Y,Y,,,,IL,E,Y,M,N,.NET,Cloud ,,,,4.5,3.5,EMMA,Emma
+Resource 25,07/09/18,UX,,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,6.7,6,MIA,Mia
+Resource 26,07/16/18,Engr,Senior,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,Y,,Y,,,,,IL,E,N,M,N,,,,,,6.7,6,OLIVIA,Olivia
+Resource 27 ,07/16/18,PM,,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,,,5.9,5,ISABELLA,Isabella
+Resource 28,07/30/18,Engr,Mid,,Product 1,01/04/21,12/24/21,01/04/21,06/25/21,IL,Y,,Y,,,,,IL,E,N,M,Y,,,,,,3.4,2,SOPHIA,Sophia
+Resource 29 ,08/17/18,PM,,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,E,Y,F,,Legacy Java,Cloud ,SiteMinder,,,4.5,3.5,CAMILA,Camila
+Resource 30,08/20/18,Engr,Mid,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,AZ,E,Y,M,,,Cloud ,,,,6.7,6,EMILY,Emily
+Resource 31,09/17/18,Engr,Mid,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,Y,,,,,,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,4.5,6,SOFIA,Sofia
+Resource 32,10/01/18,Engr,Mid,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,E,Y,M,Y,.NET,Cloud ,,,,6.7,2,VICTORIA,Victoria
+Resource 33,10/01/18,Engr,Mid,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,3.4,3,LUNA,Luna
+Resource 34,10/08/18,Engr,Mid,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,E,Y,M,Y,,,,,Web,4.5,6,AVA,Ava
+Resource 35 ,10/08/18,PM ,,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,E,Y,F,,.NET,Cloud ,,,,6.7,5,ABIGAIL,Abigail
+Resource 36 ,10/08/18,PM,,,Product 10,02/12/21,12/24/21,02/12/21,12/24/21,AZ,,,,,,,,AZ,E,Y,F,,.NET,Cloud ,,,,8.9,6,CHARLOTTE,Charlotte
+Resource 37 ,10/15/18,PM,,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,E,N,F,,Mainframe,Cloud ,,,,8.4,2,MILA,Mila
+Resource 38,10/15/18,Engr,Mid,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,Y,,Y,,,,,IL,E,Y,M,Y,,,,CLoud,,3.4,2,AMELIA,Amelia
+Resource 39,10/29/18,Engr,Mid,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,Y,,Y,,,Y,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,,,4.5,3,EVELYN,Evelyn
+Resource 40,11/05/18,Engr,Mid,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,Y,,,,,,,IL,E,Y,M,Y,,,,,,6.7,8,ARIA,Aria
+Resource 41 ,11/05/18,PM,,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,N,F,,Legacy Java,Cloud ,SiteMinder,,,3.4,5,PENELOPE,Penelope
+Resource 42 ,11/12/18,UX,,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,E,N,F,,,Cloud ,,,,4.5,5,SCARLETT,Scarlett
+Resource 43 ,11/26/18,Engr,Mid,,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,,,,,,AZ,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,6.7,10,CHLOE,Chloe
+Resource 44,12/03/18,PM,,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,AZ,E,Y,M,,.NET,Cloud ,,,,3.4,2,ELLA,Ella
+Resource 45 ,12/10/18,PM,,,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,4.5,3,ELIZABETH,Elizabeth
+Resource 46 ,12/17/18,Engr,Mid,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,E,N,F,,,,,.NET,,6.7,8,AVERY,Avery
+Resource 47,12/17/18,Engr,Mid,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,3.4,5,ZOE,Zoe
+Resource 48,12/17/18,Engr,Mid,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,TX,E,N,M,,.NET,Cloud ,,,,4.5,5,GENESIS,Genesis
+Resource 49,01/07/19,PM,,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,6.7,8,NOAH,Noah
+Resource 50 ,01/07/19,Engr,Mid,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,Y,F,N,,,,IBM,,9.2,5,LIAM,Liam
+Resource 51,01/07/19,Engr,Junior,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,Y,,Y,,Y,,,IL,E,Y,M,Y,Legacy Java,Cloud ,IBM/Websphere,,,6.7,5,SEBASTIAN,Sebastian
+Resource 52,01/07/19,Engr,Junior,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,N,M,N,,,,,,3.4,3,MATEO,Mateo
+Resource 53,01/14/19,Engr,Junior,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,Y,,,,,,,IL,E,N,M,N,Legacy Java,Cloud ,SiteMinder,,,2.3,8,ETHAN,Ethan
+Resource 54,01/14/19,Engr,Junior,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,Y,,Y,Y,,,,IL,E,N,M,N,,Cloud ,,,,7.9,5,DANIEL,Daniel
+Resource 55,01/14/19,Engr,Junior,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,TX,E,Y,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,5.9,5,JULIAN,Julian
+Resource 56,01/21/19,Engr,Junior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,Y,,Y,,,,,IL,E,N,M,N,.NET,Cloud ,,,,3.6,2,ALEXANDER,Alexander
+Resource 57,01/28/19,Engr,Junior,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,M,N,.NET,Cloud ,,,,2.9,3,BENJAMIN,Benjamin
+Resource 58 ,02/04/19,PM,,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,N,F,,,,CPP,,,8.9,8,JACOB,Jacob
+Resource 59,02/04/19,Engr,Junior,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,E,Y,M,N,.NET,Cloud ,,,,8.4,5,MATTHEW,Matthew
+Resource 60,02/04/19,Engr,Junior,,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,Y,,Y,,,,,IL,E,N,M,N,.NET,Cloud ,,,,3.4,5,LUCAS,Lucas
+Resource 61,03/04/19,Engr,Junior,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,E,Y,M,N,Mainframe,Cloud ,,,,4.5,8,JAYDEN,Jayden
+Resource 62,03/18/19,Engr,Junior,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,Y,,,,TX,E,N,M,,,Cloud ,,,,6.7,5,OLIVER,Oliver
+Resource 63,04/01/19,Engr,Junior,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,8.8,5,AIDEN,Aiden
+Resource 64,04/15/19,Engr,Junior,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,Y,,,,IL,E,N,F,N,.NET,Cloud ,,,,4.9,7,LOGAN,Logan
+Resource 65,04/15/19,Engr,Mid,,Product 1,01/04/21,12/24/21,01/04/21,05/31/21,IL,Y,,Y,,,,,IL,E,Y,M,Y,.NET,Cloud ,,,,3.4,2,DAVID,David
+Resource 66,04/22/19,UX,,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,AZ,E,N,F,,,,php,,,4.5,3,JAMES,James
+Resource 67,04/22/19,Engr,Mid,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,Y,,,,TX,E,N,M,,.NET,Cloud ,,,,6.7,8,ELIJAH,Elijah
+Resource 68,05/06/19,Engr,Mid,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,Y,,,,,,,IL,E,N,M,N,.NET,Cloud ,,,,3.4,5,DYLAN,Dylan
+Resource 69,06/03/19,Engr,Mid,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,Y,,,TX,E,N,M,,Mainframe,Cloud ,,,,2.3,5,MICHAEL,Michael
+Resource 70,06/03/19,Engr,Mid,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,TX,E,N,M,,,Cloud ,,,,7.9,5,NATHAN,Nathan
+Resource 71,06/10/19,Engr,Mid,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,Y,,Y,,,,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,5.9,5,ISAAC,Isaac
+Resource 72,06/10/19,Engr,Mid,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,E,Y,F,,.NET,Cloud ,,,,3.6,9,MASON,Mason
+Resource 73,06/17/19,Engr,Mid,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,Y,,Y,,,,,IL,E,N,M,N,.NET,Cloud ,,,,2.9,2,WILLIAM,William
+Resource 74,06/17/19,Engr,Mid,,Product 10,02/12/21,12/24/21,02/26/21,06/25/21,AZ,,,,Y,,,,AZ,E,Y,M,,,,Mainframe,,,8.9,3,EMILY,Emily
+Resource 75,06/24/19,Engr,Mid,,Product 11,03/01/21,10/29/21,03/01/21,08/20/21,TX,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,8.4,8,ASHLEY,Ashley
+Resource 76,10/14/19,Engr,Mid,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,3.4,5,SAMANTHA,Samantha
+Resource 77,10/21/19,Engr,Mid,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,Y,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,4.5,5,ISABELLA,Isabella
+Resource 78,11/18/19,Engr,Mid,,Product 14,03/15/21,,03/15/21,,AZ,,,,,Y,,,AZ,E,Y,F,,,Cloud ,,,,6.7,12,MIA,Mia
+Resource 79,11/18/19,Engr,Mid,Vendor 1,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,C,Y,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,8.8,4,NATALIE,Natalie
+Resource 81,01/06/20,UX,,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,4.9,2,SOPHIA,Sophia
+Resource 82,01/13/20,UX,,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,9.2,3,EMMA,Emma
+Resource 83,01/13/20,UX,,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,IL,E,N,M,,,,.NET,,,6.7,8,ALYSSA,Alyssa
+Resource 84,02/10/20,UX,,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,3.4,5,MADISON,Madison
+Resource 85,02/10/20,UX,,,Product 10,02/12/21,12/24/21,02/12/21,12/24/21,AZ,,,,,,,,TX,E,Y,M,,.NET,Cloud ,,,,2.3,5,JASMINE,Jasmine
+Resource 86,03/16/20,UX,,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,E,N,F,,Mainframe,Cloud ,,,,7.9,12,ELIZABETH,Elizabeth
+Resource 87,03/16/20,UX,,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,N,M,,,Cloud ,,,,5.9,2,JESSICA,Jessica
+Resource 91,04/27/20,Engr ,Senior,Vendor 9,Product 16,03/22/21,09/24/21,04/27/21,06/25/21,IL,,,,,,,,AZ,C,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,3.6,3,KIMBERLY,Kimberly
+Resource 93,05/11/20,PM,,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,2.9,8,ABIGAIL,Abigail
+Resource 95,05/25/20,Engr ,Junior,Vendor 1,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,8.9,5,BRIANNA,Brianna
+Resource 96,06/01/20,PM,,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,Y,F,,,,Scala,,,8.4,5,JENNIFER,Jennifer
+Resource 97,06/01/20,Engr,Junior,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,3.4,2,AVA,Ava
+Resource 98,06/15/20,UX,,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,4.5,3,HANNAH,Hannah
+Resource 99,06/22/20,Engr,Junior,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,N,M,,Mainframe,Cloud ,,,,6.7,8,SARAH,Sarah
+Resource 102,07/13/20,Engr ,Junior,Vendor 9,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,C,N,M,,,Cloud ,,,,8.8,5,ALEXIS,Alexis
+Resource 103,07/13/20,Engr ,Junior,Vendor 1,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,TX,C,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,4.9,2,ANDREA,Andrea
+Resource 104,07/13/20,Engr,Junior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,Y,,,IL,E,Y,M,,.NET,Cloud ,,,,3.4,3,ANGELINA,Angelina
+Resource 105,07/13/20,Engr ,Junior,Vendor 1,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,4.5,8,STEPHANIE,Stephanie
+Resource 106,08/03/20,Engr,Junior,Vednor 3,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,IL,C,Y,M,,,Cloud ,,,,6.7,5,VANESSA,Vanessa
+Resource 107,08/03/20,Engr,Junior,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,Y,,,IL,E,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,3.4,2,DANIEL,Daniel
+Resource 109,08/10/20,Engr,Junior,Vednor 3,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,,,,,,IL,C,Y,F,,.NET,Cloud ,,,,4.5,3,ANTHONY,Anthony
+Resource 110,08/10/20,Engr ,Junior,Vednor 4,Product 11,03/01/21,10/29/21,03/01/21,08/20/21,TX,,,,,,,,AZ,C,N,F,,.NET,Cloud ,,,,6.7,8,ANGEL,Angel
+Resource 111,08/17/20,Engr,Junior,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,Y,,,,,,,IL,E,N,F,,,,IBM/Websphere,,,3.4,5,DAVID,David
+Resource 112,08/24/20,Engr ,Junior,Vendor 9,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,C,Y,F,,.NET,Cloud ,,,,2.3,5,JOSHUA,Joshua
+Resource 113,08/31/20,Engr ,Junior,Vednor 4,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,7.9,2,JOSE,Jose
+Resource 114,09/08/20,Engr,Junior,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,5.9,3,ANDREW,Andrew
+Resource 115,09/08/20,Engr,Mid,,Product 1 ,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,Y,,,,,IL,E,Y,M,,,Cloud ,,,,3.6,8,JACOB,Jacob
+Resource 117,09/13/20,Engr,Mid,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,2.9,5,MATTHEW,Matthew
+Resource 122,09/14/20,Engr,Mid,Vednor 3,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,TX,C,N,F,,.NET,Cloud ,,,,8.9,5,MICHAEL,Michael
+Resource 123,09/14/20,UX,,,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,8.4,13,JONATHAN,Jonathan
+Resource 124,09/21/20,Engr,Mid,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,TX,E,Y,F,,,,.NET,,,3.4,5,CHRISTOPHER,Christopher
+Resource 125,09/21/20,Engr,Mid,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,AZ,E,Y,M,,.NET,Cloud ,,,,4.5,6,JOSEPH,Joseph
+Resource 127,09/21/20,Engr,Mid,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,6.7,6,ALEXANDER,Alexander
+Resource 128,09/28/20,Engr ,Mid,Vendor 9,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,C,Y,M,,Mainframe,Cloud ,,,,8.8,7,NATHAN,Nathan
+Resource 129,09/28/20,UX,,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,N,M,,,Cloud ,,,,4.9,8,ETHAN,Ethan
+Resource 130,09/28/20,Engr,Mid,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,Y,,,,,IL,E,Y,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,3.4,9,RYAN,Ryan
+Resource 133,10/12/20,Engr ,Mid,Vednor 4,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,C,Y,F,,.NET,Cloud ,,,,4.5,12,DIEGO,Diego
+Resource 134,10/19/20,UX,,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,Y,F,,.NET,Cloud ,,,,6.7,4,JUAN,Juan
+Resource 136,10/19/20,UX,,Vendor 4,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,AZ,C,N,F,,,,Java,,,3.4,3,KEVIN,Kevin
+Resource 138,11/02/20,Engr ,Mid,Vednor 4,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,,,,,,AZ,C,Y,M,,.NET,Cloud ,,,,2.3,12,BRANDON,Brandon
+Resource 139,11/02/20,Engr ,Mid,Vendor 9,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,C,N,M,,.NET,Cloud ,,,,7.9,12,CHRISTIAN,Christian
+Resource 140,11/09/20,Engr ,Mid,Vednor 4,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,AZ,C,Y,M,,Mainframe,Cloud ,,,,5.9,10,LUIS,Luis
+Resource 142,11/16/20,Engr,Mid,Vednor 3,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,C,N,F,,,Cloud ,,,,3.6,2,JESUS,Jesus
+Resource 144,11/16/20,UX,,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,AZ,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,2.9,3,GABRIEL,Gabriel
+Resource 146,11/30/20,PM ,,,,,,,,,,,,,,,,TX,E,N,F,,.NET,Cloud ,,,,8.9,8,EMILY,Emily
+Resource 147,11/30/20,UX,,Vendor 4,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,8.4,5,ISABELLA,Isabella
+Resource 148,12/14/20,Engr ,Mid,Vednor 4,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,C,N,F,,,,Python,,,3.4,10,ASHLEY,Ashley
+Resource 149,12/14/20,Engr ,Mid,Vednor 7,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,TX,C,N,F,,.NET,Cloud ,,,,4.5,13,MIA,Mia
+Resource 150,12/14/20,Engr ,Junior,Vendor 1,Product 1 ,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,6.7,5,SAMANTHA,Samantha
+Resource 151,12/21/20,Engr ,Junior,Vednor 4,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,C,N,M,,Mainframe,Cloud ,,,,8.8,6,NATALIE,Natalie
+Resource 152,01/04/21,PM ,,,,,,,,,,,,,,,,IL,E,Y,M,,,Cloud ,,,,4.9,6,SOPHIA,Sophia
+Resource 153,01/04/21,Engr,Junior,Vednor 3,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,C,Y,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,9.2,7,EMMA,Emma
+Resource 154,01/04/21,Engr,Junior,,,,,,,,,,,,Y,,,TX,E,Y,M,,.NET,Cloud ,,,,6.7,8,ABIGAIL,Abigail
+Resource 155,01/11/21,Engr,Junior,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,3.4,9,AVA,Ava
+Resource 156,01/11/21,Engr,Junior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,AZ,E,N,M,,,,IBM/Websphere,,,2.3,12,MADISON,Madison
+Resource 157,01/17/21,Engr,Junior,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,7.9,4,ELIZABETH,Elizabeth
+Resource 158,01/25/21,UX ,,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,5.9,3,ALYSSA,Alyssa
+Resource 159,02/01/21,Engr ,Junior,Vednor 4,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,C,N,M,,Mainframe,Cloud ,,,,3.6,12,BRIANNA,Brianna
+Resource 160,02/08/21,UX,,Vendor 4,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,C,N,M,,,Cloud ,,,,2.9,12,KIMBERLY,Kimberly
+Resource 161,02/08/21,Engr ,Junior,Vednor 4,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,AZ,C,N,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,8.9,10,JASMINE,Jasmine
+Resource 162,02/15/21,Engr ,Junior,Vendor 5,Product 10,02/12/21,12/24/21,02/26/21,07/23/21,AZ,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,8.4,2,ANDREA,Andrea
+Resource 163,02/15/21,Engr ,Junior,Vendor 5,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,3.4,3,JESSICA,Jessica
+Resource 164,02/15/21,Engr ,Junior,Vendor 5,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,TX,C,Y,M,,,Cloud ,,,,4.5,8,ALEXA,Alexa
+Resource 165,02/15/21,Engr ,Junior,Vendor 5,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,AZ,C,N,M,,.NET,Cloud ,,,,6.7,5,OLIVIA,Olivia
+Resource 166,03/01/21,Engr ,Junior,Vendor 5,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,8.8,6,HANNAH,Hannah
+Resource 167,03/03/21,Engr ,Junior,Vednor 4,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,AZ,C,N,F,,Mainframe,Cloud ,,,,4.9,7,VALERIA,Valeria
+Resource 168,03/03/21,Engr ,Mid,Vendor 5,Product 1 ,01/04/21,12/24/21,03/03/21,12/24/21,IL,,,,,,,,IL,C,Y,M,,,,,,,3.4,8,ANGELINA,Angelina
+Resource 169,03/08/21,PM,,,,,,,,,,,,,,,,AZ,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,,,4.5,9,SARAH,Sarah
+Resource 170,03/08/21,Engr,Mid,Vednor 3,Product 2,01/24/21,12/24/21,03/08/21,12/24/21,AZ,,,,,,,,IL,C,N,M,,,,,,,6.7,12,JOCELYN,Jocelyn
+Resource 171,03/15/21,Engr,Mid,,Product 3,01/31/21,12/24/21,03/15/21,12/17/21,IL,,,,,,,,AZ,E,N,M,,Legacy Java,Cloud ,SiteMinder,,,3.4,4,DANIEL,Daniel
+Resource 172,03/15/21,Engr ,Mid,Vendor 6,Product 4,02/07/21,05/21/21,03/15/21,05/21/21,IL,,,,,,,,AZ,C,N,M,,,Cloud ,,,,2.3,3,ANTHONY,Anthony
+Resource 173,03/15/21,UX,,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,TX,E,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,7.9,8,ANGEL,Angel
+Resource 174,03/15/21,UX ,,Vendor 6,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,C,N,M,,.NET,Cloud ,,,,5.9,9,JACOB,Jacob
+Resource 175,03/15/21,PM,,Vendor 7,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,AZ,C,Y,F,,.NET,Cloud ,,,,3.6,12,DAVID,David
+Resource 176,03/15/21,PM,,Vendor 7,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,C,N,M,,,,SiteMinder,,,2.9,4,ANDREW,Andrew
+Resource 177,03/15/21,Engr,Mid,Vendor 1,Product 5,02/21/21,12/03/21,03/15/21,12/03/21,AZ,,,,,,,,TX,C,Y,M,,.NET,Cloud ,,,,8.9,3,JOSE,Jose
+Resource 178,03/15/21,UX ,,Vendor 6,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,RI,C,N,M,,.NET,Cloud ,,,,8.4,12,JOSHUA,Joshua
+Resource 179,03/22/21,Engr ,Mid,Vendor 6,Product 6,02/28/21,12/17/21,03/22/21,12/17/21,AZ,,,,,,,,AZ,C,N,M,,Mainframe,Cloud ,,,,3.4,12,CHRISTOPHER,Christopher
+Resource 180,03/22/21,Engr ,Mid,Vendor 5,Product 7,03/14/21,11/19/21,03/22/21,11/19/21,IL,,,,,,,,IL,C,Y,M,,,,SiteMinder,,,4.5,10,MATTHEW,Matthew
+Resource 181,03/22/21,Engr,Mid,,,,,,,,,,,,,,,TX,E,Y,F,,Legacy Java,Cloud ,IBM/Websphere,,,6.7,2,DIEGO,Diego
+Resource 182,03/22/21,PM,,,,,,,,,,,,,,,,TX,E,Y,F,,,,,,,8.8,3,MICHAEL,Michael
+Resource 183,03/22/21,Engr ,Mid,Vednor 4,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,C,N,M,,Legacy Java,Cloud ,SiteMinder,,,4.9,8,JONATHAN,Jonathan
+Resource 184,03/22/21,Engr ,Mid,Vendor 6,Product 10,02/12/21,12/24/21,03/22/21,12/24/21,AZ,,,,,,,,AZ,C,N,F,,,Cloud ,,,,9.2,5,ALEXANDER,Alexander
+Resource 185,03/29/21,UX,,Vendor 4,,,,,, ,,,,,,,,IL,C,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,6.7,6,NATHAN,Nathan
+Resource 186,03/29/21,UX,,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,3.4,7,ETHAN,Ethan
+Resource 187,03/29/21,UX,,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,2.3,8,JOSEPH,Joseph
+Resource 188,03/29/21,Engr ,Mid,Vendor 5,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,C,N,F,,,Cloud ,,,,7.9,9,CHRISTIAN,Christian
+Resource 189,04/05/21,PM ,,,,,,,,,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,5.9,12,ADRIAN,Adrian
+Resource 190,04/19/21,Engr,Mid,,Product 12,03/01/21,10/29/21,04/19/21,10/29/21,IL,,,,,,,,AZ,E,Y,F,,.NET,Cloud ,,,,3.6,4,JUAN,Juan
+Resource 191,04/26/21,PM,,Vednor 6,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,C,Y,F,,Mainframe,Cloud ,,,,2.9,3,BRANDON,Brandon
+Resource 192,04/19/21,Engr ,Mid,Vendor 5,Product 13,03/08/21,12/24/21,04/19/21,12/24/21,IL,,,,,,,,TX,C,N,M,,,Mainframe,,,,8.9,8,LUIS,Luis
+Resource 193,04/26/21,Engr ,Mid,Vendor 5,,,,,,,,,,,,,,IL,C,N,F,,Legacy Java,Cloud ,IBM/Websphere,,,8.4,9,KEVIN,Kevin
+Resource 194,04/26/21,PM,,,,,,,,,,,,,,,,AZ,E,N,M,,,Cloud ,,,,3.4,12,RYAN,Ryan
+Resource 195,04/26/21,Engr ,Mid,Vendor 9,Product 15,03/22/21,09/24/21,04/26/21,09/24/21,TX,,,,,,,,IL,C,N,F,,Legacy Java,Cloud ,SiteMinder,,,4.5,4,JESUS,Jesus
+Resource 196,05/03/21,UX,,,,,,,,,,,,,,,,TX,E,Y,M,,Legacy Java,Cloud ,IBM/Websphere,,,6.7,3,EMILY,Emily
+Resource 199,05/10/21,Engr,Junior,Vednor 3,Product 4,02/07/21,05/21/21,05/10/21,05/21/21,IL,,,,,,,,IL,C,N,F,,,Cloud ,,,,8.8,12,ISABELLA,Isabella
+Resource 200,05/10/21,Engr,Junior,Vendor 2,,,,,,,,,,,,,,IL,C,N,M,,Legacy Java,Cloud ,SiteMinder,,,4.9,12,SOPHIA,Sophia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

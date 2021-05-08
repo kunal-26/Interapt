@@ -1,0 +1,16 @@
+<?php
+session_start();
+if(!isset($_SESSION["usertype"]))
+{
+	header("Location:sign-in.php");
+	die();
+}
+else
+{
+	unset($_SESSION["usertype"]);
+	unset($_SESSION["email"]);
+	session_destroy();
+	header("Location:sign-in.php");
+	die();
+}
+?>
